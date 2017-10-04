@@ -11,3 +11,9 @@ some useful websites for cs researcher.
 
 + [dblp](http://dblp.uni-trier.de/) famous database.
 
+
+## Machine Learning
+
++ [机器之心](https://www.jiqizhixin.com/)
++ [deeplearning.net](http://deeplearning.net/)
++ ​
